@@ -1,0 +1,15 @@
+https://blog.francium.tech/custom-object-training-and-detection-with-yolov3-darknet-and-opencv-41542f2ff44e
+
+https://github.com/AlexeyAB/darknet
+
+https://stackoverflow.com/questions/55118883/fine-tuning-and-transfer-learning-by-the-example-of-yolo
+
+https://www.learnopencv.com/training-yolov3-deep-learning-based-custom-object-detector/
+
+https://github.com/ultralytics/yolov3
+
+https://pypi.org/project/tesserocr/?fbclid=IwAR0KxycVzEYDInO9h15gzeTUhCKqWtSDZoSSyZxEbJ4_yi4L0UCzWuILyTo
+
+https://github.com/GuiltyNeuron/ANPR
+
+https://github.com/xhuvom/darknetFaceID

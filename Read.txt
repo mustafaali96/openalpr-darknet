@@ -1,0 +1,3 @@
+open Xampp > http://localhost:8080/anpr/profile.php
+http://localhost:8080/phpmyadmin >> open Table openanpr
+run python final.py
